@@ -13,7 +13,6 @@
   },
   "dependencies": {
     "@google/genai": "^0.14.0",
-    "chart.js/auto": "latest",
     "chart.js": "^4.5.0"
   },
   "devDependencies": {
