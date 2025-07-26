@@ -1,0 +1,6 @@
+{
+  "name": "Bitcoin Sparplan Rechner",
+  "description": "Ein Rechner zur Simulation von monatlichen Investitionen mit Auszahlungen.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
